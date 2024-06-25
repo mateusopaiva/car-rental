@@ -1,7 +1,7 @@
 from cars import show_car_list
 from process_rental import process_rental
 from process_return import process_return
-from utils import display_menu
+from display_menu import display_menu
 
 def main():
     from cars import cars
